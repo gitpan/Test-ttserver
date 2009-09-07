@@ -1,0 +1,26 @@
+Changes
+inc/Module/AutoInstall.pm
+inc/Module/Install.pm
+inc/Module/Install/AuthorTests.pm
+inc/Module/Install/AutoInstall.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Include.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/Test/ttserver.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+t/01-load_all.t
+t/02-pod.t
+t/03-pod-coverage.t
+t/10-memory.t
+t/11-file.t
+t/12-control.t
+t/13-not_found.t
+t/14-multi.t
