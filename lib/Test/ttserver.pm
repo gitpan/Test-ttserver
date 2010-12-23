@@ -10,7 +10,7 @@ use POSIX qw/SIGTERM WNOHANG :sys_wait_h/;
 use Time::HiRes 'sleep';
 use Test::TCP;
 
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 $VERSION = eval $VERSION;
 
 our $errstr;
@@ -287,9 +287,9 @@ L<TokyoTyrant>, L<TokyoCabinet>
 
 =over 4
 
-=item http://1978th.net/tokyotyrant/
+=item http://fallabs.com/tokyotyrant/
 
-=item http://1978th.net/tokyocabinet/
+=item http://fallabs.com/tokyocabinet/
 
 =back
 
